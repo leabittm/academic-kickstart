@@ -15,7 +15,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: Universität Wien, Faculty of Mathematics
-  url: "https://mathematik.univie.ac.at"
+  url: "https://mathematik.univie.ac.at/en/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
