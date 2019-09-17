@@ -66,4 +66,3 @@ subtitle = ""
  css_class = ""
 +++
 
-Asymptotics of standard modules of quantum affine algebras
