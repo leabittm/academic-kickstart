@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mathematics
+  - course: PhD in Mathematics bla
     institution: Université Paris Diderot
     year: 2019
   - course: MSc in Mathematics
