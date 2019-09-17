@@ -18,7 +18,7 @@ organizations:
   url: "https://mathematik.univie.ac.at"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+bio: I have obtained my PhD from the Université Paris Diderot in July 2019. I am currently a postdoctoral researcher at the University of Vienna.
 
 interests:
 - Representation Theory
