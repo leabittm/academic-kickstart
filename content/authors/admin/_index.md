@@ -1,6 +1,6 @@
----
+Ôªø---
 # Display name
-name: LÈa Bittmann
+name: L√©a Bittmann
 
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Universit‰t Wien, Faculty of Mathematics
+- name: Universit√§t Wien, Faculty of Mathematics
   url: "https://mathematik.univie.ac.at"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have obtained my PhD from the UniversitÈ Paris Diderot in July 2019.
+bio: I have obtained my PhD from the Universit√© Paris Diderot in July 2019.
 I am currently a postdoctoral researcher at the University of Vienna.
 
 interests:
@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: PhD in Mathematics
-    institution: UniversitÈ Paris Diderot
+    institution: Universit√© Paris Diderot
     year: 2019
   - course: MSc in Mathematics
-    institution: UniversitÈ Paris Diderot
+    institution: Universit√© Paris Diderot
     year: 2015
 
 # Social/Academic Networking
@@ -74,6 +74,3 @@ email: ""
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
