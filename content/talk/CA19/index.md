@@ -1,27 +1,28 @@
----
-title: t-deformations of Grothendieck rings as quantum cluster algebras
-event: Conference Quantum Affine Algebras
-event_url: https://quantumaffine2018.catholic.edu
+﻿---
+title: Quantum Grothendieck rings as quantum cluster algebras
+event: Cluster Algebras 2019, Poster of the Day
+event_url: https://sites.google.com/view/clusteralg19
 
-location: The Catholic University of America
+location: RIMS
 address:
 #  street: 450 Serra Mall
-  city: Washington DC
+  city: Kyoto
 #  region: CA
 #  postcode: '94305'
-  country: USA
+  country: Japan
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: "It is known that some Grothendieck rings of categories of representations of quantum affine algebras can be endowed with cluster algebras structures. This is true for example for certain categories O containing the category of finite-dimensional representations. On the other hand, certain Grothendieck rings of categories of finite dimensional representations admit remarkable t-deformations, which are linked to quiver varieties and are useful to compute characters. The aim of this work is to obtain such t-deformations in the context of categories O. Our approach is based on quantum cluster algebras."
+abstract: "It is known that some Grothendieck rings of categories of representations of quantum affine algebras can be endowed with cluster algebras structures. This is true for example for certain categories O
+ containing the category of finite-dimensional representations. On the other hand, certain Grothendieck rings of categories of finite dimensional representations admit remarkable t-deformations, which are linked to quiver varieties and are useful to compute characters. In this work, we define a quantum Grothendieck ring for the category O as a quantum cluster algebra, this gives a new algorithm to compute characters."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-06-07"
+date: "2019-06-07"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-06-07"
+publishDate: "2019-06-07"
 
 authors: []
 tags: []

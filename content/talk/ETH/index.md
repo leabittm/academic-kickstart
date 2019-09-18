@@ -12,7 +12,7 @@ address:
   country: Switzerland
 
 #summary: An example talk using Academic's Markdown slides feature.
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Certain Grothendieck rings of categories of finite dimensional representations admit remarkable non-commutative t-deformations, which are linked to quiver varieties. These deformations are very useful to compute characters, via Kazhdan–Lusztig type decompositions. In this talk, I will present a natural t-deformation of the Grothendieck ring of a category O of representations of quantum affine algebras. Our approach is based on quantum cluster algebras."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

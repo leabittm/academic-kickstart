@@ -12,7 +12,7 @@ address:
   country: Germany
 
 #summary: An example talk using Academic's Markdown slides feature.
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "It is known that some Grothendieck rings of categories of representations of quantum affine algebras can be endowed with cluster algebras structures. This is true for example for certain categories O containing the category of finite-dimensional representations. On the other hand, certain Grothendieck rings of categories of finite dimensional representations admit remarkable t-deformations, which are linked to quiver varieties and are useful to compute characters. The aim of this work is to obtain such t-deformations in the context of categories O. Our approach is based on quantum cluster algebras."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -1,27 +1,27 @@
 ﻿---
-title: t-deformations of Grothendieck rings as quantum cluster algebras
-event:  Lie algebras and their representations Session
-event_url: http://www.ime.unicamp.br/~ea25/Lie.html
+title: Anneaux de Grothendieck quantiques et algèbres amassées quantiques
+event: Séminaire Groupes, Représentations et Géométrie
+event_url: https://www.imj-prg.fr/grg/PHP/index.php?Sem=grg&Date=2018
 
-location: XXV Brazilian Algebra Meeting, UNICAMP
+location: Université Paris Diderot
 address:
 #  street: 450 Serra Mall
-  city: Campinas
+  city: Paris
 #  region: CA
 #  postcode: '94305'
-  country: Brazil
+  country: France
 
 #summary: An example talk using Academic's Markdown slides feature.
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Dans cet exposé, on s'intéressera à une catégorie O de représentations de l'algèbre des lacets quantiques Uq(Lg), en commençant par des rappels simples sur ces notions. Puis, on évoquera la structure déjà connue d'algèbre amassée de l'anneau de Grothendieck de cette catégorie. On s'orientera ensuite vers une quantification de ces objets. On présentera une construction d'un anneau de Grothendieck quantique pour cette catégorie O, qui passe par la définition d'une algèbre amassée quantique, version t-déformée de l'algèbre amassée existante. On retrouvera enfin une cohérence avec la structure connue d'anneau de Grothendieck quantique de la catégorie des représentations de dimension finie de Uq(Lg)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-12-04"
+date: "2019-01-18"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-12-04"
+publishDate: "2019-01-18"
 
 authors: []
 tags: []

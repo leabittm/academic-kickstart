@@ -12,7 +12,8 @@ address:
   country: USA
 
 #summary: An example talk using Academic's Markdown slides feature.
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Finite dimensional representations of quantum affine algebras have a behavior similar to the Kazhdan-Lusztig conjecture. Nakajima showed that characters of standard modules can be expressed as linear combinations of characters of simple modules of lower weight. Moreover, the coefficients are non-negative and can be expressed as evaluation of some polynomials.
+In our work, we want to obtain the same type of results for the category O of representations of a Borel subalgebra (introduced by Hernandez-Leclerc). In this talk, we will present the motivation behind the definition of our asymptotical standard modules, as well as an idea for their construction in the case where g is affine sl2."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
