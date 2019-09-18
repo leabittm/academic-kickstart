@@ -97,7 +97,7 @@ address = {street = "Oskar-Morgenstern-Platz 1", city = "Wien", region = "", pos
 coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Office 02.123"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

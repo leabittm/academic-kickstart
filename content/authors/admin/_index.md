@@ -73,5 +73,7 @@ email: ""
 # - Visitors
 ---
 
-I have obtained my PhD from the Université Paris Diderot in July 2019. I am currently a postdoctoral researcher at the University of Vienna.
+I am currently a postdoctoral researcher at the Faculty of mathematics of the University of Vienna, in the team of [Anton Mellit](https://mellit.org/).
+
+I did my PhD at the Université Paris Diderot, under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/). I defended in July 2019, the manuscript can be found [here](http://www.normalesup.org/~lbittmann/files/these.pdf). 
 
