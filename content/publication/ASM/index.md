@@ -30,7 +30,7 @@ featured: false
 
 # links:
 # - name: ""
-url: https://link.springer.com/article/10.1007/s10468-018-9818-0
+url: https://link.springer.com/article/10.1007/s10468-018-9818-0/
 url_pdf: https://arxiv.org/pdf/1712.00355.pdf
 url_code: ''
 url_dataset: ''
