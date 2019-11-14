@@ -30,14 +30,13 @@ featured: false
 
 # links:
 # - name: ""
-url: https://link.springer.com/article/10.1007/s10468-018-9818-0/
 url_pdf: https://arxiv.org/pdf/1712.00355.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: https://link.springer.com/article/10.1007/s10468-018-9818-0
 url_video: ''
 
 # Featured image
