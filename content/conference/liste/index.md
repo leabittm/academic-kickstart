@@ -1,7 +1,7 @@
 ﻿---
 Title : List of conferences I attended
 
-date: "2019-09-18"
+date: "2020-01-16"
 ---
 
 
@@ -16,3 +16,5 @@ date: "2019-09-18"
 9. *[Representations in Lie Theory and Interactions](https://conferences.cirm-math.fr/1817.html)*, CIRM, Luminy, November 2018
 10. *[XXV Brazilian Algebra School](http://www.ime.unicamp.br/~ea25/index.html)*, Campinas, December 2018
 11. *[Cluster Algebras 2019](https://sites.google.com/view/clusteralg19)* (CA 2019), Kyoto, June 2019
+12. *[Categorifications, Moduli Spaces and Representation Theory](https://conferences.cirm-math.fr/2134.html)*, CIRM, Luminy, January 2020
+13. *[Workshop Algebraic and geometric Lie theory](https://www.math.u-psud.fr/~plamondon/colloqueTournant/)* "Colloque tournant", IHP, Paris, February 2020
