@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://www.normalesup.org/~lbittmann/files/Mémoire.pdf
+url_pdf: http://www.normalesup.org/~lbittmann/files/Memoire.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
