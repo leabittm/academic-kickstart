@@ -1,5 +1,5 @@
 ﻿---
-title: [ANNULÉ] Anneaux de Grothendieck quantiques et algèbres amassées quantiques
+title: ANNULÉ - Anneaux de Grothendieck quantiques et algèbres amassées quantiques
 event: Séminaire d'algèbre et de géométrie
 event_url: https://www.lmno.cnrs.fr/node/386
 
