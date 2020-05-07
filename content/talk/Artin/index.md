@@ -1,7 +1,7 @@
 ﻿---
-title: TBA
+title: TBA - Invited speaker ARTIN Meeting
 
-event: Algebra and Representation Theory in the North (ARTIN) Meeting
+event: Algebra and Representation Theory in the North
 
 event_url: https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.aspx
 

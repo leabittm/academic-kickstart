@@ -18,3 +18,4 @@ date: "2020-01-16"
 11. *[Cluster Algebras 2019](https://sites.google.com/view/clusteralg19)* (CA 2019), Kyoto, June 2019
 12. *[Categorifications, Moduli Spaces and Representation Theory](https://conferences.cirm-math.fr/2134.html)*, CIRM, Luminy, January 2020
 13. *[Workshop Algebraic and geometric Lie theory](https://www.math.u-psud.fr/~plamondon/colloqueTournant/)* "Colloque tournant", IHP, Paris, February 2020
+14. *[ARTIN 2020: Tensor Categories, Quantum Groups and Related Topics](https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.aspx)*, University of Nottingham, June 2020
