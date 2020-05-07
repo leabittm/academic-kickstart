@@ -8,7 +8,7 @@ event_url: https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.
 location: University of Nottingham
 address:
 
-  city: University of Nottingha
+  city: Nottingham
 
   country: United Kingdom
 
