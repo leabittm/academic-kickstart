@@ -16,7 +16,7 @@ publishDate: "2019-02-01"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Accepted by the Journal of the London Mathmatical Society"
 publication_short: ""
 
 abstract: We define and construct a quantum Grothendieck ring for a certain monoidal subcategory of the category $\mathcal{O}$ of representations of the quantum loop algebra introduced by Hernandez-Jimbo. We use the cluster algebra structure of the Grothendieck ring of this category to define the quantum Grothendieck ring as a quantum cluster algebra. When the underlying simple Lie algebra is of type $A$, we prove that this quantum Grothendieck ring contains the quantum Grothendieck ring of the category of finite-dimensional representations of the associated quantum affine algebra. In type $A_1$, we identify remarkable relations in this quantum Grothendieck ring.
