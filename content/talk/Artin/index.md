@@ -1,7 +1,7 @@
 ﻿---
-title: TBA - Invited speaker ARTIN Meeting
+title: t-deformations of Grothendieck rings as quantum cluster algebras
 
-event: Algebra and Representation Theory in the North
+event: ARTIN Workshop
 
 event_url: https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.aspx
 
@@ -13,11 +13,11 @@ address:
   country: United Kingdom
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: 
+abstract: Quantum affine algebras are quantum groups with a rich representation theory which has been extensively studied from various points of view. In particular, the Grothendieck rings of certain categories of finite dimensional representations have remarkable $t$-deformations, initially defined using the geometry of quiver varieties. More recently, the theory of cluster algebras gave a new combinatorial approach to the study of representations of quantum affine algebras. In this talk, we will see how one can use $t$-deformations of cluster algebras, called quantum cluster algebras, to recovers and extends results obtained geometrically.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-07-01"
+date: "2020-06-30"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
