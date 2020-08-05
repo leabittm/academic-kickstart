@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Algebras and Representation Theory*"
-publication_short: ""
+publication_short: "Algebr Represent Theor"
 
 abstract: We introduce a sequence of $q$-characters of standard modules of a quantum affine algebra and we prove it has a limit as a formal power series. For $\mathfrak{g}=\hat{\mathfrak{sl}}_2$, we establish an explicit formula for the limit which enables us to construct corresponding asymptotical standard modules associated to each simple module in the category $\mathcal{O}$ of a Borel subalgebra of the quantum affine algebra. Finally, we prove a decomposition formula for the limit formula into $q$-characters of simple modules in this category $\mathcal{O}$.
 
