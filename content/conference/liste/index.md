@@ -19,3 +19,4 @@ date: "2020-01-16"
 12. *[Categorifications, Moduli Spaces and Representation Theory](https://conferences.cirm-math.fr/2134.html)*, CIRM, Luminy, January 2020
 13. *[Workshop Algebraic and geometric Lie theory](https://www.math.u-psud.fr/~plamondon/colloqueTournant/)* "Colloque tournant", IHP, Paris, February 2020
 14. *[ARTIN 2020: Tensor Categories, Quantum Groups and Related Topics](https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.aspx)*, University of Nottingham, June 2020
+15. *[Quantum Algebra Days](https://damienespadon.wixsite.com/dersympapp/quantum-algebra-days)*, IMAG, Montpellier, November 2020
