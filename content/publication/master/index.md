@@ -16,7 +16,7 @@ publishDate: "2019-07-16"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Master's Thesis"
 publication_short: ""
 
 #abstract: 
