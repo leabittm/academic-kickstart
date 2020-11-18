@@ -16,7 +16,7 @@ publishDate: "2019-11-29"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "accepted in Mathematische Zeitschrift"
 publication_short: ""
 
 abstract: We establish a quantum cluster algebra structure on the quantum Grothendieck ring of a certain monoidal subcategory of the category of finite-dimensional representations of a simply-laced quantum affine algebra. Moreover, the (q,t)-characters of certain irreducible representations, among which fundamental representations, are obtained as quantum cluster variables. This approach gives a new algorithm to compute these (q,t)-characters. As an application, we prove that the quantum Grothendieck ring of a larger category of representations of the Borel subalgebra of the quantum affine algebra, defined in a previous work as a quantum cluster algebra, contains indeed the well-known quantum Grothendieck ring of the category of finite-dimensional representations. Finally, we display our algorithm on a concrete example.
