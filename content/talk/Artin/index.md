@@ -5,7 +5,7 @@ event: ARTIN Workshop
 
 event_url: https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.aspx
 
-location: University of Nottingham
+location: University of Nottingham - Miscrosoft Teams
 address:
 
   city: Nottingham
