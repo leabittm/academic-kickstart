@@ -23,7 +23,7 @@ organizations:
 interests:
 - Representation Theory
 - Quantum Groups, Quantum Affine Algebras, (Double) Affine Hecke Algebras, etc
-- Combinatorics: (Qauntum) Cluster Algebras, Macdonald Polynomials, etc
+- Combinatorics, (Qauntum) Cluster Algebras, Macdonald Polynomials, etc
 
 education:
   courses:
