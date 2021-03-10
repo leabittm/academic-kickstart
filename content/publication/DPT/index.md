@@ -1,7 +1,10 @@
 ---
 title: "Type $A$ DAHA and Doubly Periodic Tableaux"
 authors:
-- Léa Bittmann; Alex Chandler; Anton Mellit; Chiara Novarini
+- Léa Bittmann
+- Alex Chandler
+- Anton Mellit
+- Chiara Novarini
 
 date: "2021"
 doi: ""
