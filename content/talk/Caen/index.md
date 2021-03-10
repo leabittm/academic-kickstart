@@ -5,7 +5,7 @@ event: Séminaire d'algèbre et de géométrie
 
 event_url: https://www.lmno.cnrs.fr/sem/AG
 
-location: LMNO
+location: LMNO - BBB
 address:
 
   city: Caen
