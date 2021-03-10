@@ -4,7 +4,7 @@ authors:
 - Léa Bittmann
 - Alberto Minguez
 
-date: "2021"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -6,7 +6,7 @@ authors:
 - Anton Mellit
 - Chiara Novarini
 
-date: "2021"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
