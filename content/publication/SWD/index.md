@@ -1,10 +1,8 @@
 ---
-title: "Type $A$ DAHA and Doubly Periodic Tableaux"
+title: "A cluster algebra approach to $p$-adic representations via quantum affine Schur-Weyl duality"
 authors:
 - Léa Bittmann
-- Alex Chandler
-- Anton Mellit
-- Chiara Novarini
+- Alberto Minguez
 
 date: "2021"
 doi: ""
@@ -22,7 +20,7 @@ publication_types: ["3"]
 publication: "in preparation"
 publication_short: ""
 
-abstract: 
+abstract: In preparation
 
 # Summary. An optional shortened abstract.
 summary: 
