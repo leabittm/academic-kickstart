@@ -1,13 +1,13 @@
 ---
 title: "Type $A$ DAHA and Doubly Periodic Tableaux"
 authors:
-- admin - Alex Chandler - Anton Mellit - Chiara Novarini
+- Léa Bittmann, Alex Chandler, Anton Mellit, Chiara Novarini
 
 date: "2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-08-07"
+publishDate: "2021-03-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
