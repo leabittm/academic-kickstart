@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: "in preparation"
 publication_short: ""
 
-abstract: 
+#abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
