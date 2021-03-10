@@ -1,7 +1,7 @@
 ---
 title: "Quantum Grothendieck rings as quantum cluster algebras"
 authors:
-- admin
+- bittmann
 
 date: "2020-07-27"
 doi: "10.1112/jlms.12369"

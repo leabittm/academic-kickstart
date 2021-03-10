@@ -1,7 +1,7 @@
 ---
 title: "Asymptotics of standard modules of quantum affine algebras"
 authors:
-- admin
+- bittmann
 
 date: "2018-08-07"
 doi: "10.1007/s10468-018-9818-0"

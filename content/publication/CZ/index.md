@@ -1,7 +1,7 @@
 ---
 title: "A quantum cluster algebra approach to representations of simply-laced quantum affine algebras"
 authors:
-- admin
+- bittmann
 
 date: "2020-12-23"
 doi: "https://doi.org/10.1007/s00209-020-02664-9"

@@ -1,7 +1,7 @@
 ﻿---
 title: "Representations of the Yangian in Deligne's category $Rep(Gl_{t})$"
 authors:
-- admin
+- bittmann
 
 date: "2015-09-25"
 doi: ""

@@ -1,7 +1,7 @@
 ---
 title: "Quantum Grothendieck rings, cluster algebras and quantum affine category O"
 authors:
-- admin
+- bittmann
 
 date: "2019-07-16"
 doi: ""

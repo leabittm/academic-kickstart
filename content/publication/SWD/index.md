@@ -1,8 +1,8 @@
 ---
 title: "A cluster algebra approach to $p$-adic representations via quantum affine Schur-Weyl duality"
 authors:
-- Léa Bittmann
-- Alberto Minguez
+- bittmann
+- Alberto Mínguez
 
 date: ""
 doi: ""
