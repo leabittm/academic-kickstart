@@ -1,5 +1,5 @@
 ---
-title: "Quantum Grothendieck rings, cluster algebras and quantum affine category $\mathcal{O}$"
+title: "Quantum Grothendieck rings, cluster algebras and quantum affine category $O$"
 authors:
 - bittmann
 
