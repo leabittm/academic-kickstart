@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Universität Wien, Faculty of Mathematics
-  url: "https://mathematik.univie.ac.at/en/"
+- name: University of Edinburg, Hodge Institute
+  url: "https://hodge.maths.ed.ac.uk/tiki/Welcome"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -74,7 +74,7 @@ email: ""
 # - Visitors
 ---
 
-I am currently a postdoctoral researcher at the Faculty of mathematics of the University of Vienna, in the team of [Anton Mellit](https://mellit.org/).
+Since September 2021, I am a research associate at the [University of Edinburgh](https://hodge.maths.ed.ac.uk/tiki/Welcome). Before that, I was working at the [University of Vienna](https://mathematik.univie.ac.at/en/). 
 
-I did my PhD at the Université Paris Diderot, under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/). I defended in July 2019, the manuscript can be found [here](http://www.normalesup.org/~lbittmann/files/these.pdf). 
+I completed my PhD at the [Université Paris Diderot](https://u-paris.fr/en/), under the supervision of [David Hernandez](https://webusers.imj-prg.fr/~david.hernandez/), in 2019.
 
