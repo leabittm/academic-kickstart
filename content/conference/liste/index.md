@@ -21,3 +21,5 @@ date: "2020-01-16"
 14. *[ARTIN 2020: Tensor Categories, Quantum Groups and Related Topics](https://www.nottingham.ac.uk/mathematics/events/workshops/artin-2020.aspx)*, University of Nottingham, June 2020
 15. *[Quantum Algebra Days](https://damienespadon.wixsite.com/dersympapp/quantum-algebra-days)*, IMAG, Montpellier, November 2020
 16. *[Quantum Groups and Cohomology Theory of Quiver and Flag Varieties](https://conferences.cirm-math.fr/2221.html)*, CIRM, BBB, December 2020
+17. *[New developments in representation theory arising from cluster algebras research school](https://www.newton.ac.uk/event/carw01/)*, INI, Cambridge, September 2021
+18. *[New developments in representation theory arising from cluster algebras](https://www.newton.ac.uk/event/carw02/)*, INI, Cambridge, September 2021
