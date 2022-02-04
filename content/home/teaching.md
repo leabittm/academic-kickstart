@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Teaching"
@@ -26,7 +26,7 @@ date_format = "2006"
 #  url = ""
 #  certificate_url = "https://www.coursera.org"
   date_start = "2022-01-20"
-#  date_end = "2022-04-08"
+  date_end = "2022-04-08"
   description = "**Honours Algebra** - Skills Labs"
 
 
@@ -38,7 +38,7 @@ date_format = "2006"
 #  url = ""
 #  certificate_url = "https://www.coursera.org"
   date_start = "2021-09-01"
-#  date_end = "2021-12-15"
+  date_end = "2021-12-15"
   description = "**Introduction to Linear Algebra** Workshops"
 
 
