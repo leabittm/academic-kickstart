@@ -27,7 +27,7 @@ date_format = "2006"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2022-01-20"
 #  date_end = "2022-04-08"
-  description = "**Hounors Algebra** - Skills Labs"
+  description = "**Honours Algebra** - Skills Labs"
 
 
 
