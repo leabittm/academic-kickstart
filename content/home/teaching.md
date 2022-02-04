@@ -1,6 +1,6 @@
 ﻿+++
 # Accomplishments widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
@@ -19,7 +19,7 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[experience]]
+[[item]]
   organization = "University of Edinburgh"
 #  organization_url = "https://www.coursera.org"
   title = "Tutor"
@@ -31,7 +31,7 @@ date_format = "2006"
 
 
 
-[[experience]]
+[[item]]
   organization = "University of Edinburgh"
 #  organization_url = "https://www.coursera.org"
   title = "Tutor"
@@ -46,7 +46,7 @@ date_format = "2006"
 
 
 
-[[experience]]
+[[item]]
   organization = "Université Paris Diderot"
 #  organization_url = "https://www.coursera.org"
   title = "Teaching Assistant"
@@ -56,7 +56,7 @@ date_format = "2006"
   date_end = "2018-08-31"
   description = "**Advanced Algebra and Analysis** Travaux Dirigés"
 
-[[experience]]
+[[item]]
   organization = "Université Paris Diderot"
 #  organization_url = "https://www.coursera.org"
   title = "Teaching Assistant"
@@ -66,7 +66,7 @@ date_format = "2006"
   date_end = "2017-08-31"
   description = "**Basic Algebra and Analysis** Travaux Dirigés"
 
-[[experience]]
+[[item]]
   organization = "Lycée Saint Louis"
 #  organization_url = "https://www.coursera.org"
   title = "Oral examiner"
