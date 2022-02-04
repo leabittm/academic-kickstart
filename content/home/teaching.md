@@ -26,7 +26,7 @@ date_format = "2006"
 #  url = ""
 #  certificate_url = "https://www.coursera.org"
   date_start = "2022-01-20"
-  date_end = "2022-04-08"
+#  date_end = "2022-04-08"
   description = "**Hounors Algebra** - Skills Labs"
 
 
@@ -38,7 +38,7 @@ date_format = "2006"
 #  url = ""
 #  certificate_url = "https://www.coursera.org"
   date_start = "2021-09-01"
-  date_end = "2021-12-15"
+#  date_end = "2021-12-15"
   description = "**Introduction to Linear Algebra** Workshops"
 
 
