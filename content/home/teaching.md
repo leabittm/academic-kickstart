@@ -20,6 +20,33 @@ date_format = "2006"
 
 
 [[item]]
+  organization = "University of Edinburgh"
+#  organization_url = "https://www.coursera.org"
+  title = "Tutor"
+#  url = ""
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2022-01-20"
+  date_end = "2022-04-08"
+  description = "**Hounors Algebra** - Skills Labs"
+
+
+
+[[item]]
+  organization = "University of Edinburgh"
+#  organization_url = "https://www.coursera.org"
+  title = "Tutor"
+#  url = ""
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2021-09-01"
+  date_end = "2021-12-15"
+  description = "**Introduction to Linear Algebra** Workshops"
+
+
+
+
+
+
+[[item]]
   organization = "Université Paris Diderot"
 #  organization_url = "https://www.coursera.org"
   title = "Teaching Assistant"
@@ -27,7 +54,7 @@ date_format = "2006"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2016-09-01"
   date_end = "2018-08-31"
-  description = "Ran exercise classes in *Advanced Algebra and Analysis*, for 2nd year students preparing for engineer school."
+  description = "**Advanced Algebra and Analysis** Travaux Dirigés"
 
 [[item]]
   organization = "Université Paris Diderot"
@@ -37,7 +64,7 @@ date_format = "2006"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2016-09-01"
   date_end = "2017-08-31"
-  description = "Ran exercise classes in *Basic Algebra and Analysis*, for 1st year students in computer science."
+  description = "**Basic Algebra and Analysis** Travaux Dirigés"
 
 [[item]]
   organization = "Lycée Saint Louis"
@@ -47,6 +74,6 @@ date_format = "2006"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2013-09-01"
   date_end = "2015-08-31"
-  description = "Gave weekly oral exams in Mathematics to 1st year students preparing for engineer school."
+  description = "Weekly oral exams (**colles**) for 1st year students preparing for engineer school."
 
 +++
