@@ -18,32 +18,34 @@ date_format = "jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
 [[item]]
-  title = "Organizer"
-  company = "Hodge Seminar"
-  company_url = "https://hodge.maths.ed.ac.uk/tiki/EDGE"
-  location = "University of Edinburgh"
-  date_start = "2021-09-01"
+  organization = "University of Edinburgh"
+# organization_url = "https://hodge.maths.ed.ac.uk/tiki/EDGE"
+  title = "Organizer of the [*Hodge Seminar*](https://hodge.maths.ed.ac.uk/tiki/EDGE)"
+#  url = ""
+ date_start = "2021-09-01"
   date_end = ""
   description = ""
 
 [[item]]
-  title = "Postdoc representative"
-  company = "*Equality, Diversity and Inclusion* committee"
-  company_url = ""
-  location = "University of Edinburgh"
-  date_start = "2021-09-01"
+  organization = "University of Edinburgh"
+# organization_url = "https://hodge.maths.ed.ac.uk/tiki/EDGE"
+  title = "Postdoc representative, *Equality, Diversity and Inclusion* committee"
+#  url = ""
+ date_start = "2021-09-01"
   date_end = ""
   description = ""
 
 [[item]]
-  title = "Organizer"
-  company = "*Rencontres Master-Doctorants*"
-  company_url = ""
-  location = "Université Paris Diderot"
+  organization = "Université Paris Diderot"
+# organization_url = ""
+  title = "Organizer of the *Rencontres Master-Doctorants*"
+#  url = ""
   date_start = "2017-09-01"
   date_end = "2019-08-31"
   description = "Organizer of biannual meetings between graduate students and PhD students."
+
+
+
 
 +++
