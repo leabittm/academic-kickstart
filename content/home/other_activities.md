@@ -43,7 +43,7 @@ date_format = "2006"
 #  url = ""
   date_start = "2017-09-01"
   date_end = "2019-08-31"
-  description = "Organizer of biannual meetings between graduate students and PhD students."
+  description = "Biannual meetings between graduate students and PhD students."
 
 [[item]]
   organization = "Université Paris Diderot"
