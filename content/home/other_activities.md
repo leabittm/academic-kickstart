@@ -45,6 +45,14 @@ date_format = "2006"
   date_end = "2019-08-31"
   description = "Organizer of biannual meetings between graduate students and PhD students."
 
+[[item]]
+  organization = "Université Paris Diderot"
+# organization_url = ""
+  title = "Member of the *Comité Parité*"
+  url = "https://www.imj-prg.fr/comite-parite/"
+  date_start = "2017-09-01"
+  date_end = "2019-08-31"
+  description = ""
 
 
 
