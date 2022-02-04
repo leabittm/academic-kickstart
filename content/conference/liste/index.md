@@ -1,7 +1,7 @@
 ﻿---
 Title : List of conferences I attended
 
-date: ""
+date: "2022-02-04"
 ---
 
 20. *[WINART3 workshop](http://women-in-ncalg-repthy.org/conferences/winart3-workshop/)*, Banff, April 2022 
