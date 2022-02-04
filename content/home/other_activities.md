@@ -21,7 +21,7 @@ date_format = "2006"
 [[item]]
   organization = "University of Edinburgh"
 # organization_url = "https://hodge.maths.ed.ac.uk/tiki/EDGE"
-  title = "Organizer of the [*Hodge Seminar*](https://hodge.maths.ed.ac.uk/tiki/EDGE)"
+  title = "Organizer of the [**Hodge Seminar**](https://hodge.maths.ed.ac.uk/tiki/EDGE)"
 #  url = ""
  date_start = "2021-09-01"
   date_end = ""
