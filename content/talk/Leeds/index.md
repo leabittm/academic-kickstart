@@ -1,7 +1,7 @@
 ﻿---
 title:  Simplicity of tensor product of quantum affine algebras representations
 
-event: Bridges between representation theory and algebraic geometry: Singularities, friezes and cluster categories 
+event: "Bridges between representation theory and algebraic geometry: Singularities, friezes and cluster categories"
 
 event_url: https://sites.google.com/view/singular-clusters
 
@@ -13,8 +13,7 @@ address:
   country: United-Kingdom
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: For representations of quantum affine algebras, it is an important, and non trivial, question to determine if the tensor product of two irreducible representations is again irreducible.
-Through quantum affine Schur-Weyl duality, this question translates to representations of the general linear group over a non-archimedean field. In this context, Lapid and Minguez have established a combinatorial criteria stating when the parabolic induction of some irreducible representations is an irreducible representation. In this work, we extend this criteria to representations of type A quantum affine algebras, when Lapid-Minguez's criteria cannot be translated through Schur-Weyl duality.
+abstract: For representations of quantum affine algebras, it is an important, and non trivial, question to determine if the tensor product of two irreducible representations is again irreducible. Through quantum affine Schur-Weyl duality, this question translates to representations of the general linear group over a non-archimedean field. In this context, Lapid and Minguez have established a combinatorial criteria stating when the parabolic induction of some irreducible representations is an irreducible representation. In this work, we extend this criteria to representations of type A quantum affine algebras, when Lapid-Minguez's criteria cannot be translated through Schur-Weyl duality.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
