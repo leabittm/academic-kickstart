@@ -25,3 +25,6 @@ date: "2020-01-16"
 18. *[New developments in representation theory arising from cluster algebras](https://www.newton.ac.uk/event/carw02/)*, INI, Cambridge, September 2021
 19. *[Enveloping Algebras and Geometric Representation Theory](https://www.mfo.de/occasion/2144/www_view)*, Oberwolfach, November 2021
 20. *[WINART3 workshop](http://women-in-ncalg-repthy.org/conferences/winart3-workshop/)*, Banff, April 2022 
+20. *[Summer School: Representation theory and flag or quiver varieties](https://school2022.sciencesconf.org/)*, Paris, June 2022 
+21. *[Geometric Reresentation Theory workshop](https://indico.ipmu.jp/event/409/overview)*, Kavli IPMU, Zoom, June-July 2022 
+22. *[World Meeting for Women in Mathematics](https://2022.worldwomeninmaths.org/)*, Youtube, July 2022 
