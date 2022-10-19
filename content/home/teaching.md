@@ -18,6 +18,15 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "University of Edinburgh"
+#  organization_url = "https://www.coursera.org"
+  title = "Tutor"
+#  url = ""
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2022-09-01"
+  date_end = "2022-12-16"
+  description = "**Honours Analysis** Worshops"
 
 [[item]]
   organization = "University of Edinburgh"
