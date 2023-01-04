@@ -21,16 +21,26 @@ date_format = "2006"
 [[item]]
   organization = "University of Edinburgh"
 # organization_url = "https://hodge.maths.ed.ac.uk/tiki/EDGE"
+  title = "Organizer of the [**Algebra Seminar**](https://sites.google.com/view/hodge-seminars/)"
+#  url = ""
+ date_start = "2022-09-01"
+  date_end = "2023-01-06"
+  description = ""
+
+
+[[item]]
+  organization = "University of Edinburgh"
+# organization_url = "https://hodge.maths.ed.ac.uk/tiki/EDGE"
   title = "Organizer of the [**Hodge Seminar**](https://sites.google.com/view/hodge-seminars/)"
 #  url = ""
  date_start = "2021-09-01"
-  date_end = "2023-01-06"
+  date_end = "2022-08-31"
   description = ""
 
 [[item]]
   organization = "University of Edinburgh"
 # organization_url = "https://hodge.maths.ed.ac.uk/tiki/EDGE"
-  title = "Postdoc representative, [*Equality, Diversity and Inclusion*](https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion) committee"
+  title = "Postdoc representative, [*Equality, Diversity and Inclusion* committee](https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion)"
 #  url = "https://www.maths.ed.ac.uk/school-of-mathematics/about-us/equality-diversity-and-inclusion"
  date_start = "2021-09-01"
   date_end = "2023-01-06"
