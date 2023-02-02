@@ -32,12 +32,12 @@ abstract: Triangulations of a twice punctured disk with at least two marked poin
 
 
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: http://www.normalesup.org/~lbittmann/files/these.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
