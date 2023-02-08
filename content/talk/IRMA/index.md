@@ -5,10 +5,10 @@ event: "Séminaire Algèbre et topologie"
 
 event_url: https://irma.math.unistra.fr/seminaires/seminaire-algebre-et-topologie.html
 
-location: IRMA
+location: IRMA - Strasbourg
 address:
 
-  city: Strasbourg
+  city: 
 
   country: France
 

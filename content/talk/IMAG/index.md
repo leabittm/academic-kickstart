@@ -5,10 +5,10 @@ event: "Séminaire AGATA"
 
 event_url: https://delcroix.perso.math.cnrs.fr/AGATA/
 
-location: IMAG
+location: IMAG - Montpellier
 address:
 
-  city: Montpellier
+  city: 
 
   country: France
 
